@@ -3,6 +3,9 @@
   .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    .portfolio-img {
+      background: $primary;
+    }
     .portfolio-link {
       position: relative;
       display: block;
